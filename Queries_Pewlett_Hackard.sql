@@ -11,8 +11,9 @@ ON e.emp_no = s.emp_no
 SELECT first_name, last_name, hire_date
 FROM employees
 WHERE hire_date BETWEEN to_date('1986-01-01','YYYY-MM-DD') AND to_date('1986-12-31','YYYY-MM-DD')
+ 
 -- result: Total rows: 1000 of 36150
--- https://stackoverflow.com/questions/15817871/postgresql-filter-a-date-range
+
 
 
 -- 3. List the manager of each department along with their department number, department name, employee number, last name, and first name.
