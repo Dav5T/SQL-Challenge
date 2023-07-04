@@ -38,6 +38,8 @@ The current files in those folders are the files required to import into PgAdmin
 <br>&ensp; 1. Open, "Queries_Pewlett_Hackard.sql", file
 <br>&ensp; 2. Copy and paste each query section one at a time OR paste all of it and highlight one section at a time to run each query indvidually 
 
-
+**Source**
+Filter for date
+https://stackoverflow.com/questions/15817871/postgresql-filter-a-date-range
 
 
