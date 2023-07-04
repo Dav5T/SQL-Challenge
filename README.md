@@ -1,5 +1,5 @@
 **CSV files - Importing**
-Make sure that there is a folder called Employee_SQL. In that folder you will find:
+<br>Make sure that there is a folder called Employee_SQL. In that folder you will find:
 <br>&ensp; 1. departments.csv
 <br>&ensp; 2. dept_emp.csv
 <br>&ensp; 3. dept_manager.csv
