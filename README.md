@@ -10,8 +10,9 @@
 The current files in those folders are the files required to import into PgAdmin4
 
 **Data Modeling:**
-<br>You can find the image in, "ERD_Pewlett_Hacckard.png", file
-<br>For futher detail, you can click on this link: https://app.quickdatabasediagrams.com/#/d/MDz0ma
+<br>You can find the image in, "ERD_Pewlett_Hacckard.png" or right below:
+![image](https://github.com/Dav5T/sql_challenge/assets/130593953/b44572cb-77c9-4cc0-864b-27d7d25ff73a)
+<br>For futher details on creating a data model, you can click on this link: https://app.quickdatabasediagrams.com/#/d/MDz0ma
 
 **Data Engineering**
 <br><br>1. You will first need to create a database.
